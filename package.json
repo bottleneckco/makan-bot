@@ -1,0 +1,17 @@
+{
+  "name": "makan-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "ts-node": "^8.2.0",
+    "typescript": "^3.5.1"
+  },
+  "scripts": {
+    "start": "ts-node main.ts"
+  },
+  "dependencies": {
+    "dotenv": "^8.0.0",
+    "telegraf": "^3.30.1"
+  }
+}
