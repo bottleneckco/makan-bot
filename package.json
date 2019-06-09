@@ -4,7 +4,10 @@
   "main": "index.js",
   "license": "MIT",
   "devDependencies": {
+    "@types/lodash": "^4.14.134",
     "ts-node": "^8.2.0",
+    "tslint": "^5.17.0",
+    "tslint-config-airbnb": "^5.11.1",
     "typescript": "^3.5.1"
   },
   "scripts": {
@@ -12,6 +15,7 @@
   },
   "dependencies": {
     "dotenv": "^8.0.0",
+    "lodash": "^4.17.11",
     "telegraf": "^3.30.1"
   }
 }
