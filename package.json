@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "dotenv": "^8.0.0",
-    "lodash": "^4.17.13",
+    "lodash": "^4.17.21",
     "telegraf": "^3.30.1"
   }
 }
